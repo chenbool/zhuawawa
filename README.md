@@ -30,11 +30,10 @@
 
 ## 📸 游戏截图
 
-| 游戏界面 | 游戏画面 |
-|:---:|:---:|
-| <img src="https://img.layabox.com/questions/20170807/a419b0e8ea0891137c49dc650362e8c1.png" width="300"> | <img src="https://img.layabox.com/questions/20170807/5cba9f737d5464a185f7308a8e19dbb9.png" width="300"> |
-| **操作演示** | **抓取效果** |
-| <img src="https://img.layabox.com/questions/20170807/7bb6438898529483a70d7c41a8228ad9.png" width="300"> | *更多截图敬请期待* |
+| 游戏界面 | 游戏画面 | 操作演示 |
+|:---:|:---:|:---:|
+| <img src="https://img.layabox.com/questions/20170807/a419b0e8ea0891137c49dc650362e8c1.png" width="250"> | <img src="https://img.layabox.com/questions/20170807/5cba9f737d5464a185f7308a8e19dbb9.png" width="250"> | <img src="https://img.layabox.com/questions/20170807/7bb6438898529483a70d7c41a8228ad9.png" width="250"> |
+| **开始界面** | **抓取过程** | **抓取结果** |
 
 ---
 
